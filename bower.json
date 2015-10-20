@@ -1,14 +1,24 @@
 {
   "name": "phonecatApp",
-  "description": "A starter project for AngularJS",
-  "version": "0.0.1",
-  "homepage": "https://github.com/angular/angular-seed",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zorro76/phonecatApp",
+  "authors": [
+    "sergey <sergey.martynuk@gmail.com>"
+  ],
   "license": "MIT",
-  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {
-    "angular": "~1.4.0",
-    "angular-route": "~1.4.0",
+    "angular-animate": "~1.4.7",
+    "angular-mocks": "~1.4.0",
     "angular-loader": "~1.4.0",
-    "angular-mocks": "~1.4.0"
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.0",
+    "bootstrap": "~3.3.5"
   }
 }

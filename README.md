@@ -1,2 +1,2 @@
-# angular-seed — the seed for AngularJS apps
+# angular-phonecatApp — the seed for AngularJS apps
 
